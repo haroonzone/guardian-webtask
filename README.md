@@ -22,5 +22,5 @@ Visit the generated URLs via your browser or use the curl command to do a GET re
 ```
 https://<yours_uuid>.run.webtask.io/guardian?q=auth0
 
-https://<yours_uuid>.run.webtask.io/guardian?q=auth0
+https://<yours_uuid>.run.webtask.io/guardian?q=obama
 ```
